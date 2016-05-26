@@ -1,7 +1,7 @@
 # jquery.imgScroll.js
 ##一个开源的图片轮播插件
 ###示例
-$("#test").imgScroll({
+$("#test").imgScroll({\<br>  
       imgAdds: ["1.jpg", "2.jpg", "3.jpg","4.jpg", "5.jpg", "6.jpg","7.jpg", "8.jpg",\<br>   "9.jpg","10.jpg"], //图片地址，数组\<br>  
       imgWidth:150,//轮播框大小，以图片张数计算\<br>  
 			imgHeight:100,//轮播图片宽\<br>  
