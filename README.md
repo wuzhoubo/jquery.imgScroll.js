@@ -24,4 +24,4 @@ $("#test").imgScroll({
     iconColor:#00bb9c//prev、next图标颜色
 });
 ```
-[demo]("http://wuzhoubo.github.io/dist/imageDemo/")
+[demo](http://wuzhoubo.github.io/dist/imageDemo/"demo")
