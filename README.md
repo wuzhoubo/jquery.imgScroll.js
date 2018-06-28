@@ -7,7 +7,7 @@
 ```
 ### 第二步，创建一个容器
 ```javascript
-<div id="test"></div>
+<div id="test"></div>   
 ```
 ### 第三步，写入配置
 ```javascript
